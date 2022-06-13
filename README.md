@@ -1,2 +1,3 @@
 # Profile
- Claire's profile page 
+ <td> Claire's profile page </td>
+ <td> Trying it out</td>
